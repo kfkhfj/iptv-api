@@ -1,0 +1,13 @@
+#EXTM3U x-tvg-url="https://proxy.5233224.xyz/https://raw.githubusercontent.com/kfkhfj/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-16 21:58:01
+http://z.b.bkpcp.top/m.php?id=cctv6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="CCTV6.png" group-title="📺央视频道",CCTV-6
+http://z.b.bkpcp.top/m.php?id=cctv6
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768568336&key=3d9638ae7f1b9c2f21fc8021492731ce
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768568336&key=ce48974a56b25003213ed0e2c0ff10ee
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768568336&key=e40fa14386ec8821b766980dce6fe81e
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
+https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768568336&key=ae420dab73a3a6c0bf97b8198ae14e5b

@@ -1,0 +1,13 @@
+🕘️更新时间,#genre#
+2026-01-16 21:58:01,http://z.b.bkpcp.top/m.php?id=cctv6
+
+📺央视频道,#genre#
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+
+📡卫视频道,#genre#
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768568336&key=3d9638ae7f1b9c2f21fc8021492731ce
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768568336&key=ce48974a56b25003213ed0e2c0ff10ee
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768568336&key=e40fa14386ec8821b766980dce6fe81e
+
+☘️广东频道,#genre#
+广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768568336&key=ae420dab73a3a6c0bf97b8198ae14e5b
