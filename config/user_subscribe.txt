@@ -1,0 +1,14 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+
+https://raw.githubusercontent.com/kfkhfj/iptv/refs/heads/main/tv2026.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/m3u/IPTV.m3u
+https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/hotel/%E5%85%A8%E5%9B%BD.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/hotel/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1/%E6%B9%96%E5%8C%97.txt
+https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/hotel/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1/%E6%B9%96%E5%8D%97.txt
+
+
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
