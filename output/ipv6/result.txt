@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-17 06:31:02,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+2026-01-17 18:31:18,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
@@ -8,13 +8,17 @@ CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 📡卫视频道,#genre#
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768598890&key=d76db2c1cc38a3ab8590a5750be81078
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768598890&key=51ffd397fd7c1a9c4a5374ec7a15cf46
-河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768598890&key=5d1a48c066a4917ebc5d5e806c69afb5
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768642057&key=bd854d95a1a8da2f4feea94eb47dc6d8
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768642057&key=0d8e6a25500b9e33c787e0771e2383e9
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768642057&key=293509fa5db5a63a2d64eb40c5781b0e
 
 ☘️广东频道,#genre#
-广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768598890&key=bca6972cdc33f4a00b66af203231461f
+广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768642057&key=c782e6e37ffbbf3ee387695b96f42ded
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
+广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768598890&key=a80a06de8a7d01094aa108f17462e264
 广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768568336&key=1573a51e86e2911b14594c2fea880541
+广州竞赛,https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768598890&key=9c1652732c40fd9576b8cbf82aa0f198
 佛山综合,https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768568336&key=9882b2cf69662ad161740b71e1f3af61
+佛山综合,https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768598890&key=8a13ceb8b67f86b84f715e2f65840913
 深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768568336&key=38846ff4ab11eebd32af5b58f52129e7
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768598890&key=75b5a1db585f9394783844da869766bb
