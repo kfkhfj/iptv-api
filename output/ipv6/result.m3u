@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://proxy.5233224.xyz/https://raw.githubusercontent.com/kfkhfj/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-19 06:29:49
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-19 18:38:42
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="📺央视频道",CCTV-16
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
@@ -10,13 +10,13 @@ http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="CETV4.png" group-title="📺央视频道",CETV-4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
-https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768771475&key=5c4a3ac0c9cb34f64599b6df037f6744
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768815712&key=a399ba6360a95f2a4adcdfe66e40b747
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
-https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768771475&key=4242f3970d86e7787b80e317478fafcf
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768815712&key=e9f4c6165df4bfd8f9ebdda4629a942b
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
-https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768771475&key=f05e19c7f7ba541d7079279838e3854a
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1768815712&key=9671660404d60768456a83739a824e79
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
-https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768771475&key=0f4c94d3d6ae1b3dfd7870363e0ff7b6
+https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1768815712&key=f3b67dd4774dbfad8eb9e4fd48851358
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
@@ -27,6 +27,8 @@ https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768642057&key=391224bd1ab9a74
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768685091&key=ff341fdde5b434679b25be2970512694
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768728478&key=d7e108e256bbc4b5f8f9d70abb648ea1
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
+https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768771475&key=c8ebecb5adc148ef1507baa91ff0aeeb
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="广州竞赛.png" group-title="☘️广东频道",广州竞赛
 https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768568336&key=1573a51e86e2911b14594c2fea880541
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="广州竞赛.png" group-title="☘️广东频道",广州竞赛
@@ -37,6 +39,8 @@ https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768642057&key=61b355afd05673f
 https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768685091&key=7ec377f9414973547bfd23fb243ebd0a
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="广州竞赛.png" group-title="☘️广东频道",广州竞赛
 https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768728478&key=3a192fdbeb00328f16bab6d2c3bf74c4
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="广州竞赛.png" group-title="☘️广东频道",广州竞赛
+https://live.lalifeier.eu.org/gztv/jingsai.m3u8?t=1768771475&key=5466b7ce4fbf0b3689d7113e741475fa
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="佛山综合.png" group-title="☘️广东频道",佛山综合
 https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768568336&key=9882b2cf69662ad161740b71e1f3af61
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="佛山综合.png" group-title="☘️广东频道",佛山综合
@@ -47,6 +51,8 @@ https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768642057&key=c258fd486b0c7687d3
 https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768685091&key=da99b81a77058e36d70f9fbd06a96c22
 #EXTINF:-1 tvg-name="佛山综合" tvg-logo="佛山综合.png" group-title="☘️广东频道",佛山综合
 https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768728478&key=7a924f19dddce58da104aa94618b9fe5
+#EXTINF:-1 tvg-name="佛山综合" tvg-logo="佛山综合.png" group-title="☘️广东频道",佛山综合
+https://live.lalifeier.eu.org/fstv/fszh.m3u8?t=1768771475&key=728e8e2c9c2544e90d276dd081a408e5
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
 https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768568336&key=38846ff4ab11eebd32af5b58f52129e7
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
@@ -57,3 +63,5 @@ https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768642057&key=618a303a4b3bfaa193
 https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768685091&key=313d39413d0833ee1f4ca5a4a271cdeb
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
 https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768728478&key=c710e2183508f611fb7cc7842dac1a09
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
+https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768771475&key=662143cc8e660d18ac410fe380227781
