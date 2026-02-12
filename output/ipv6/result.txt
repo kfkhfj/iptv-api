@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-12 06:36:04,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+2026-02-12 18:51:45,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 
 📺央视频道,#genre#
 CCTV-16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
@@ -8,12 +8,22 @@ CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
 CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 📡卫视频道,#genre#
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1770846153&key=13132a8dfaaba1c52f9a740800c52b8f
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1770846153&key=f459cee810f94cc9c6e2eb52c62c5fea
-河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1770846153&key=54d6c0b5f752dfb6302a52e5df284950
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1770890350&key=d3c646a3783c28d510c72794950208cd
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1770890350&key=c843db5c23a9b9f350c7232ec2feafcc
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1770890350&key=43f29186bf3b6e98be2159dca721b70c
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768568336&key=4db8a4540a684eed1f92c59328f1d3ad
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768598890&key=b3c599ccaed1e23f96ab95dc3a3832fa
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768642057&key=6ef117104311a6e82d484dd1c7e509f5
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768685091&key=d9b2fa1ac0567054afe1a8f9d1807041
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768728478&key=24198662add7e133ccc8e51579f9cd2d
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768771475&key=316f85c5b80b2a9a9087f0f201837d68
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768815712&key=d292b8b5868bb90070d629d134fea99a
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768858032&key=85336d3b96770716bab9e91ee802af5f
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768901987&key=153cc42a2663c0be147d767efdc7ff03
+云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768944507&key=89dfa88ec3545befb545fd4e5d596486
 
 ☘️广东频道,#genre#
-广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1770846153&key=311b42f4d94121c5455d04cb73b123d2
+广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1770890350&key=2bd15dd5dcd0ca79abf458f237401d7d
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768598890&key=a80a06de8a7d01094aa108f17462e264
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768642057&key=391224bd1ab9a74eb5803fc30bc6456b
