@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://proxy.5233224.xyz/https://raw.githubusercontent.com/kfkhfj/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-21 18:31:44
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-22 06:29:53
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="CCTV16.png" group-title="📺央视频道",CCTV-16
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
@@ -10,11 +10,11 @@ http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="CETV4.png" group-title="📺央视频道",CETV-4
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
-https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1771666663&key=eb4dae9909714f15b3572c7b6d0a7c32
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1771709509&key=e466e9c4eb948df5689d6b20cb257eae
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
-https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1771666663&key=ac160f2845a6a1944b36516fd0d00edc
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1771709509&key=edcb38d955c3b62ac9f276e585dad8dc
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
-https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1771666663&key=065f2b2604168716869a74a8fa3f4658
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1771709509&key=e52d21592058679c0f90c23fc4141b08
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768568336&key=4db8a4540a684eed1f92c59328f1d3ad
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
@@ -36,7 +36,7 @@ https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768901987&key=153cc42a2663c0be14
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="云南卫视.png" group-title="📡卫视频道",云南卫视
 https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768944507&key=89dfa88ec3545befb545fd4e5d596486
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
-https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1771666663&key=bd905f36a764cddfb106ace1d7755d1b
+https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1771709509&key=10cb8e560eff4fd4edd732ea6eb2e4c7
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
