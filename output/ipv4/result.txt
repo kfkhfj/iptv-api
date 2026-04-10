@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-10 18:58:22,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-11 06:40:29,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -80,7 +80,16 @@ CETV-4,http://113.195.4.227:9901/tsfile/live/1036_1.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://113.25.252.226:9901/tsfile/live/1030_1.m3u8
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
-东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1775815959&key=47cf7d7fa5092711725801109b46a79f
+东方卫视,http://home.wwang.pw:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772574002&key=11d5fe853bd66863ae2947b5e9957bca
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772617854&key=8266f30773bf028a2e12baea429bdeeb
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772660450&key=1bdd7dc725536bd2e46963c9d37289a9
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772704559&key=7796acd430c82dc43ad596059b1ebebd
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772746968&key=86eec3fe3d9f8be343c36f0f9664bb4a
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772790592&key=6459c37355735951791f98221fbe4d11
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772832962&key=b4fce16bded754247a7c0b2d914119c2
+东方卫视,https://live-cdn-v01.lalifeier.eu.org/kankanews/dfws.m3u8?t=1772876173&key=a4baba94fe24644aef99bc7da5b9fd00
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
@@ -88,9 +97,7 @@ CETV-4,http://113.195.4.227:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
-河北卫视,https://live-cdn-v01.lalifeier.eu.org/hebtv/hbws.m3u8?t=1775815959&key=10c0cb746d59f90733c998ef28da0bef
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-河南卫视,https://live-cdn-v01.lalifeier.eu.org/hntv/hnws.m3u8?t=1775815959&key=b7be98086e6013c0c48cad91817c6d45
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
