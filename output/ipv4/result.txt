@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 19:20:47,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-14 06:46:41,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -36,8 +36,8 @@ CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
-CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV-14,http://113.25.252.226:9901/tsfile/live/1018_1.m3u8
+CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
 CCTV-16,http://home.wwang.pw:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://171.108.239.79:8181/tsfile/live/1042_1.m3u8
