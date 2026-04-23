@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-23 19:12:50,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-24 06:48:14,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -60,6 +60,7 @@ CCTV-17,http://222.134.245.16:9901/tsfile/live/0019_1.m3u8
 CETV-1,http://113.195.4.227:9901/tsfile/live/1035_1.m3u8
 CETV-2,http://113.195.4.227:9901/tsfile/live/1033_1.m3u8
 CETV-4,http://113.195.4.227:9901/tsfile/live/1036_1.m3u8
+CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
