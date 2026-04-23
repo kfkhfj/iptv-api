@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-23 06:52:17,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-23 19:12:50,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -84,16 +84,16 @@ CETV-4,http://113.195.4.227:9901/tsfile/live/1036_1.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://113.25.252.226:9901/tsfile/live/1030_1.m3u8
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1776894982&key=f0a45c690664cf1e2ce33191fbf37049
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1776940055&key=e49cbd4dd28a7f14852cb027c0ad4e9e
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1776894982&key=9b1cbe703fc5699edeba803d160a04b6
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1776940055&key=bc5c17ed5ad59000380b9db2a09346a7
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
-河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1776894982&key=379cca846af4d9552d8a2186a6847ac2
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1776940055&key=8f38d60ba2416d1e8cc7575b3b0ea32e
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
@@ -187,7 +187,7 @@ CETV-4,http://113.195.4.227:9901/tsfile/live/1036_1.m3u8
 广东卫视,http://119.125.104.73:9901/tsfile/live/1010_1.m3u8
 广东卫视,http://113.25.252.226:9901/tsfile/live/1028_1.m3u8
 大湾区卫视,http://home.wwang.pw:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
-广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1776894982&key=85bf87077d21129b9415e698143306b3
+广州综合,https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1776940055&key=ea1414af4015266c805cad7ad04578d7
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768598890&key=a80a06de8a7d01094aa108f17462e264
 广州影视,https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768642057&key=391224bd1ab9a74eb5803fc30bc6456b
