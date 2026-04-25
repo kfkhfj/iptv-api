@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-25 18:47:07,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-26 06:40:34,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -36,8 +36,8 @@ CCTV-10,http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 CCTV-12,http://61.136.172.236:9901/tsfile/live/0012_1.m3u8
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8
-CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV-14,http://113.25.252.226:9901/tsfile/live/1018_1.m3u8
+CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8
 CCTV-16,http://home.wwang.pw:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
 CCTV-16,http://171.108.239.79:8181/tsfile/live/1042_1.m3u8
@@ -74,11 +74,10 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 北京卫视,http://61.136.172.236:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://61.136.172.236:9901/tsfile/live/0132_1.m3u8
-黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://113.25.252.226:9901/tsfile/live/1038_1.m3u8
+黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://113.25.252.226:9901/tsfile/live/1025_1.m3u8
 重庆卫视,http://113.25.252.226:9901/tsfile/live/1030_1.m3u8
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
