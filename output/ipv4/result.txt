@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-29 06:59:21,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-04-29 19:31:19,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -74,8 +74,8 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 北京卫视,http://61.136.172.236:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8
 湖北卫视,http://61.136.172.236:9901/tsfile/live/0132_1.m3u8
-黑龙江卫视,http://113.25.252.226:9901/tsfile/live/1038_1.m3u8
 黑龙江卫视,http://61.136.172.236:9901/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://113.25.252.226:9901/tsfile/live/1038_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://113.25.252.226:9901/tsfile/live/1030_1.m3u8
