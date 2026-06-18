@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-18 07:30:08,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-06-18 20:54:56,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -124,7 +124,6 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 陕西卫视,http://113.25.252.226:9901/tsfile/live/1040_1.m3u8
 陕西卫视,http://111.227.196.164:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
-四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8
 深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
 三沙卫视,http://home.wwang.pw:35455/itv/5000000011000288016.m3u8?cdn=bestzb
