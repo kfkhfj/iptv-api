@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-20 07:00:50,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-06-20 19:58:02,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -78,7 +78,7 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 重庆卫视,http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
-东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1781903700&key=888ec416a6a707f41965a606abdcab7b
+东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1781954565&key=e3d80835393b14b4aa34d090345f29ca
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
@@ -95,7 +95,7 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
-河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1781903700&key=84f171f7ea642e92ad3a67267cbdf2bf
+河南卫视,https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1781954565&key=0a2adb01d783bca44b541e3b09066da2
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
