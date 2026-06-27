@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://proxy.5233224.xyz/https://raw.githubusercontent.com/kfkhfj/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-06-27 19:29:58
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-06-28 07:05:13
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -150,7 +150,7 @@ http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视.png" group-title="📡卫视频道",东方卫视
-https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1782555350&key=cda26a44b3ce2d0107e0cda4f3b73945
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1782598156&key=910f57b9eda8ecc18ea957632cdbac91
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
 http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -182,11 +182,11 @@ http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="海南卫视.png" group-title="📡卫视频道",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
-https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1782555350&key=f3259574fb5a3e7bf6a0f4493171be74
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1782598156&key=3106dd39d0070fb77a637b134da60103
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="河北卫视.png" group-title="📡卫视频道",河北卫视
 http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
-https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1782555350&key=3f7c6e64012ca0f635110cfb0ff10119
+https://live.lalifeier.eu.org/hntv/hnws.m3u8?t=1782598156&key=a640f8bbc1591ff72d27f75ba610fbcb
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
 http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -366,7 +366,7 @@ http://113.25.252.226:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="大湾区卫视.png" group-title="☘️广东频道",大湾区卫视
 http://home.wwang.pw:35455/itv/1000000002000011619.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
-https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1782555350&key=4044792206754e131da56b3ec8b88ad6
+https://live.lalifeier.eu.org/gztv/zhonghe.m3u8?t=1782598156&key=86c7d209ad67d20b1132c227a9e99307
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
 https://live.lalifeier.eu.org/gztv/yingshi.m3u8?t=1768568336&key=d6e560a2c83b108f68a8cd42ac49e324
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="广州影视.png" group-title="☘️广东频道",广州影视
