@@ -1,8 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-24 19:44:42,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+2026-07-25 07:04:41,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
 
 📺央视频道,#genre#
 CCTV-4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+CCTV-5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV-5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-6,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
 CCTV-16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV-2,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000071/index.m3u8?
