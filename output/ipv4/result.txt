@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-06 07:01:04,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-08-06 20:04:21,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -109,7 +109,16 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
+宁夏卫视,http://home.wwang.pw:35455/itv/1000000002000031451.m3u8?cdn=ystenlive
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.flv
+宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
+宁夏卫视,http://171.108.239.79:8181/tsfile/live/0112_1.m3u8
+宁夏卫视,http://218.92.37.174:9901/tsfile/live/0112_1.m3u8
+宁夏卫视,http://183.136.148.214:9901/tsfile/live/0139_1.m3u8
+宁夏卫视,http://119.125.104.73:9901/tsfile/live/1083_1.m3u8
+宁夏卫视,http://113.25.252.226:9901/tsfile/live/1046_1.m3u8
+宁夏卫视,http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 青海卫视,http://home.wwang.pw:35455/itv/5000000006000040015.m3u8?cdn=bestzb
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://171.108.239.79:8181/tsfile/live/1069_1.m3u8
