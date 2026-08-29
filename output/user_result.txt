@@ -1,5 +1,5 @@
-🕘️更新时间,#genre#
-2026-08-29 22:58:49,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+🕘️正在更新中，刷新获取最新结果,#genre#
+2026-08-30 07:57:12,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -147,13 +147,31 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 陕西卫视,http://111.227.196.164:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://222.169.85.8:9901/tsfile/live/0136_1.m3u8
 四川卫视,http://61.136.172.236:9901/tsfile/live/0123_1.m3u8
-深圳卫视,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768568336&key=38846ff4ab11eebd32af5b58f52129e7
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768598890&key=75b5a1db585f9394783844da869766bb
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768642057&key=618a303a4b3bfaa1934a189934a6262d
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768685091&key=313d39413d0833ee1f4ca5a4a271cdeb
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768728478&key=c710e2183508f611fb7cc7842dac1a09
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768771475&key=662143cc8e660d18ac410fe380227781
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768815712&key=179f4cd08d0eef571c9fa2c8fa8f54d3
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768858032&key=7195864dc053e6a3151c4f1759e57173
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768901987&key=13305413456f07e88f7a54a38ddb3715
+深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768944507&key=26102ca02c898d2d0cc035d84c47ab61
 三沙卫视,http://home.wwang.pw:35455/itv/5000000011000288016.m3u8?cdn=bestzb
 三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8
 三沙卫视,http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 三沙卫视,http://113.195.4.227:9901/tsfile/live/1078_1.m3u8
 三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8
+天津卫视,http://home.wwang.pw:35455/itv/1000000005000265026.m3u8?cdn=ystenlive
+天津卫视,http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
+天津卫视,http://222.173.108.238:352/tsfile/live/0135_1.m3u8
+天津卫视,http://171.108.239.79:8181/tsfile/live/1066_1.m3u8
+天津卫视,http://218.92.37.174:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8
+天津卫视,http://183.136.148.214:9901/tsfile/live/0135_1.m3u8
+天津卫视,http://117.27.190.42:9998/tsfile/live/23259_1.m3u8
+天津卫视,http://119.125.104.73:9901/tsfile/live/1056_1.m3u8
+天津卫视,http://113.25.252.226:9901/tsfile/live/1034_1.m3u8
 西藏卫视,http://home.wwang.pw:35455/itv/6603041244077933770.m3u8?cdn=ystenlive
 西藏卫视,http://satellitepull.cnr.cn/live/wxxzws/playlist.m3u8
 西藏卫视,http://171.108.239.79:8181/tsfile/live/0111_1.m3u8
