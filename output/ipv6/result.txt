@@ -1,5 +1,5 @@
-🕘️正在更新中，刷新获取最新结果,#genre#
-2026-08-30 07:57:12,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+🕘️更新时间,#genre#
+2026-08-30 22:44:50,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
 
 📺央视频道,#genre#
 CCTV-4,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
@@ -20,16 +20,6 @@ CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?Guard
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768901987&key=9b698f76962b30aecd8c430441979fe7
 东方卫视,https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1768944507&key=00ad4b331498f215ab19ff5982e31da0
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768568336&key=38846ff4ab11eebd32af5b58f52129e7
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768598890&key=75b5a1db585f9394783844da869766bb
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768642057&key=618a303a4b3bfaa1934a189934a6262d
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768685091&key=313d39413d0833ee1f4ca5a4a271cdeb
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768728478&key=c710e2183508f611fb7cc7842dac1a09
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768771475&key=662143cc8e660d18ac410fe380227781
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768815712&key=179f4cd08d0eef571c9fa2c8fa8f54d3
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768858032&key=7195864dc053e6a3151c4f1759e57173
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768901987&key=13305413456f07e88f7a54a38ddb3715
-深圳卫视,https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1768944507&key=26102ca02c898d2d0cc035d84c47ab61
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768568336&key=4db8a4540a684eed1f92c59328f1d3ad
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768598890&key=b3c599ccaed1e23f96ab95dc3a3832fa
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1768642057&key=6ef117104311a6e82d484dd1c7e509f5
