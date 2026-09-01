@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 22:35:57,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-09-02 07:51:37,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -103,7 +103,16 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 广西卫视,http://61.136.172.236:9901/tsfile/live/0113_1.m3u8
 贵州卫视,http://61.136.172.236:9901/tsfile/live/0120_1.m3u8
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
-河北卫视,http://61.136.172.236:9901/tsfile/live/0117_1.m3u8
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1963555056&k=a2a2ee6412906c8b2d9a6fd19116c6d9
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768568336&key=ce48974a56b25003213ed0e2c0ff10ee
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768598890&key=51ffd397fd7c1a9c4a5374ec7a15cf46
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768642057&key=0d8e6a25500b9e33c787e0771e2383e9
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768685091&key=e830ea7550b5975cb96f32149e9b7f9a
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768728478&key=34c57ac1648e967aa21a91e28e4d78f5
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768771475&key=4242f3970d86e7787b80e317478fafcf
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768815712&key=e9f4c6165df4bfd8f9ebdda4629a942b
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768858032&key=012e794305801279f57efdcc9ec6d635
+河北卫视,https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1768901987&key=2bef4ac15b9ef9effcb2c8ebb971bc5e
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
