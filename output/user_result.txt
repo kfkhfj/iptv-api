@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 08:39:33,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-09-22 22:25:01,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -108,7 +108,16 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
-江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://litchi-play-encrypted-site.jstv.com/live/jsws_live.m3u8?txSecret=109ff73927180e8bee18a1d54037acc8&txTime=968075ef
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768568336&key=b654558209c11856dbb11e1a0c427a46
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768598890&key=16a1161232917d5b238f375543fa1206
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768642057&key=5a8518a7adf7b70e461fe24ba422fe42
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768685091&key=32bfddcd0dbd16160ffca7e9c09d3428
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768728478&key=35751256f9cd72ad0a2503aee95eb074
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768771475&key=3d1ce03b31f61a589d9e4ca9b29d9f42
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768815712&key=47abc1e4ad8868b38a8cab697c6b7d9d
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768858032&key=fccb32ba090f9ba9f53c8bfe3dd49589
+江苏卫视,https://live.lalifeier.eu.org/jstv/jsws.m3u8?t=1768901987&key=71f957de1c854fb8b367a32413f40153
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8

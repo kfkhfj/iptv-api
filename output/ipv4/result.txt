@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-22 08:39:33,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
+2026-09-22 22:25:01,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8
@@ -104,7 +104,16 @@ CETV-4,http://58.46.29.253:9999/tsfile/live/1085_1.m3u8
 河南卫视,http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 吉林卫视,http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
+江苏卫视,http://home.wwang.pw:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+江苏卫视,http://satellitepull.cnr.cn/live/wx32jsws/playlist.m3u8
+江苏卫视,http://222.173.108.238:352/tsfile/live/0116_2.m3u8
 江苏卫视,http://61.136.172.236:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://183.136.148.214:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://117.27.190.42:9998/tsfile/live/23264_1.m3u8
+江苏卫视,http://119.125.104.73:9901/tsfile/live/1050_1.m3u8
+江苏卫视,http://113.25.252.226:9901/tsfile/live/1021_1.m3u8
+江苏卫视,http://111.227.196.164:9901/tsfile/live/0127_1.m3u8
+江苏卫视,http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 江西卫视,http://61.136.172.236:9901/tsfile/live/0138_1.m3u8
 辽宁卫视,http://satellitepull.cnr.cn/live/wxlnws/playlist.m3u8
 辽宁卫视,http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
